@@ -13,6 +13,10 @@
 - Passionate about frontend development
 - Currently learning backend languages ​​such as python, MySQL, ....
 - Personal website --> [IN PROGRESS]
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=magmiliator77&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
