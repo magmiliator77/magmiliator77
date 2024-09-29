@@ -76,6 +76,14 @@
 <img src="https://img.shields.io/badge/gmail:  veinte2007mtm23@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+<li>
+<a href="https://openwebinars.net/@
+miguelTorresMartinez
+" target="_blank">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</a>
+</li>
 	
 </ul>
 </div>
