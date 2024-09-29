@@ -78,8 +78,7 @@
 </li>
 
 <li>
-<a href="https://openwebinars.net/@miguelTorresMartinez" target="_blank"> <img src=""></a>
-
+<a href="https://openwebinars.net/@miguelTorresMartinez" target="_blank">MI PERFÍL DE OPEN WEBINARS </a>
 
 
 
