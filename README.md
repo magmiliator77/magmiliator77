@@ -80,9 +80,9 @@
 <li>
 <a href="https://openwebinars.net/@
 miguelTorresMartinez
-" target="_blank">
+" target="_blank"></a>
 [![My Skills](https://skillicons.dev/icons?i="js")](https://skillicons.dev)
-</a>
+
 </li>
 	
 </ul>
