@@ -53,7 +53,8 @@
 
 -----
 
-[![Miguel Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <br>
