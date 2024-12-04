@@ -53,7 +53,8 @@
 
 -----
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br>
