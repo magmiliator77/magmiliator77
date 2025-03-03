@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/Ov0mV0aVg6NnTewPP8Kh" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+  <img src="https://d1vjgq82aec6f4.cloudfront.net/h6qo1p%2Fpreview%2F64993994%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1741004369&Signature=RKbi88DpOMRk-uM6WEhRNbfrwGltO25SgIS9OygWhN4M3UpjZUepl8hFlBjD4oZxctfLqjsSgqC6tP-HvHyEvV-U5NBZz40q1MkD4UVVnz9NDTdTWqMBmMA0oC4AKKNfpZhjxl93a8cT~U-NTSvxjV3Sbj4~B9Hhmp~cUjZ5-sGARBSlLsoD41SJJoRGocJCp7fhCCvxPPnLwO4dBs-0aZRGrdPm6ZmgTLa71fEKMqHLVWYXR9NMsj~NMv4K9H3D7p7Lae2-4~k-zl4pX-PT8N2NeKz4rP2iczGgOy14Q86cXDlVEbTK7uceA8UwAjyIPABYrDGg53mxIzDNFiW3EQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Card header"/>
 </div>
 
 
