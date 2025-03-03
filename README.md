@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="Añadir un título (1).gif" alt="Card header"/>
+  <img src="https://jmp.sh/s/Ov0mV0aVg6NnTewPP8Kh" alt="Card header"/>
 </div>
 
 
@@ -44,7 +44,7 @@
 
   ## 🛠️ &nbsp;Languages and Tools
 
-  ### Languages
+  ### Linguages
   [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
   [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
