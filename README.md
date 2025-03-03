@@ -44,7 +44,7 @@
 
   ## 🛠️ &nbsp;Languages and Tools
 
-  ### Linguages
+  ### Languages
   [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
   [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
