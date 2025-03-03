@@ -71,10 +71,9 @@
   ## 📫 &nbsp;Connect with me
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/migueltorresmart%C3%ADnez/)
-  [![Gmail Badge](https://img.shields.io/badge/-miguel.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:veinte2007mtm23@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Miguel_dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/migueltorresmart%C3%ADnez/)
+  [![Gmail Badge](https://img.shields.io/badge/-veinte2007@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:veinte2007mtm23@gmail.com)
   
-
 </div>
 
 ![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake-dark.svg)
