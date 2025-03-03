@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://d1vjgq82aec6f4.cloudfront.net/h6qo1p%2Fpreview%2F64993994%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1741004369&Signature=RKbi88DpOMRk-uM6WEhRNbfrwGltO25SgIS9OygWhN4M3UpjZUepl8hFlBjD4oZxctfLqjsSgqC6tP-HvHyEvV-U5NBZz40q1MkD4UVVnz9NDTdTWqMBmMA0oC4AKKNfpZhjxl93a8cT~U-NTSvxjV3Sbj4~B9Hhmp~cUjZ5-sGARBSlLsoD41SJJoRGocJCp7fhCCvxPPnLwO4dBs-0aZRGrdPm6ZmgTLa71fEKMqHLVWYXR9NMsj~NMv4K9H3D7p7Lae2-4~k-zl4pX-PT8N2NeKz4rP2iczGgOy14Q86cXDlVEbTK7uceA8UwAjyIPABYrDGg53mxIzDNFiW3EQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Card header"/>
+  <img src="https://d3dm4v3lhy01si.cloudfront.net/f50g2p%2Fpreview%2F64994976%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1741006668&Signature=DZpOdofJniIq33SXF35XtYe7uEZ2v0QnDCmU2PGkCaV-aVskD0mGqMAHjLOb5vALTXYEg21RQeAV8oTClDf3ABPvZPcx2~CkomoXQj-ANmC96aXOc4xZCyfTOWVYh1XBYzVpQ1lRobzv8KVsIAdM48NqwrCMUpuMQWTnQpHo6pncB0QOt9~JM-d0wukHhvHKKg-dFr7UKPKEpyJcrxZdj8QiArVGj~qn3od9zHpJ8pB98Wlh9v-jkChrTRqxgDXB2BXUsg~d~c5OrnP5a~XO-Kd0Zo6~taInU5J6jojcqPrTtsgxU5lcQ1DU51jP2wFl8ruC1GUGXFecEil9PFx7lA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Card header"/>
 </div>
 
 
