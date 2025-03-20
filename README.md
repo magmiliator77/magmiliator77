@@ -6,9 +6,7 @@
 </div>
 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 30.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
- <img src="https://www.canva.com/design/DAGgqDE8mPQ/LupDxmN_kKmewITo1o8d4A/image.jpg" alt="Descripción de la imagen" style="width:100%; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; border-radius: 8px;">
-</div>
+<img src="https://www.canva.com/design/DAGgqDE8mPQ/LupDxmN_kKmewITo1o8d4A/image.jpg" alt="Descripción de la imagen" style="width:100%; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; border-radius: 8px;">
 
 <div>
 
