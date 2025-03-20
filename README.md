@@ -2,6 +2,9 @@
 🔴🟡🟢
 
 <br>
+
+</div>
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 30.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -10,9 +13,6 @@
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGgqDE8mPQ&#x2F;LupDxmN_kKmewITo1o8d4A&#x2F;watch?utm_content=DAGgqDE8mPQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Añadir un título</a> de Magma 777_01
-
-</div>
-
 
 <div align="center">
   <img src="https://d3dm4v3lhy01si.cloudfront.net/f50g2p%2Fpreview%2F64994976%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1741006668&Signature=DZpOdofJniIq33SXF35XtYe7uEZ2v0QnDCmU2PGkCaV-aVskD0mGqMAHjLOb5vALTXYEg21RQeAV8oTClDf3ABPvZPcx2~CkomoXQj-ANmC96aXOc4xZCyfTOWVYh1XBYzVpQ1lRobzv8KVsIAdM48NqwrCMUpuMQWTnQpHo6pncB0QOt9~JM-d0wukHhvHKKg-dFr7UKPKEpyJcrxZdj8QiArVGj~qn3od9zHpJ8pB98Wlh9v-jkChrTRqxgDXB2BXUsg~d~c5OrnP5a~XO-Kd0Zo6~taInU5J6jojcqPrTtsgxU5lcQ1DU51jP2wFl8ruC1GUGXFecEil9PFx7lA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Card header"/>
