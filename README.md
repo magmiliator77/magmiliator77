@@ -14,7 +14,7 @@
 
   - 📚 Currently a student at IES Celia Viñas, in the second year FP module of SMR.
 
-  - 🌱  I'm always learning new things like --> , **JavaScript**, **Docker**, **Java** and **SQL**.
+  - 🌱  I'm always learning new things like --> **JavaScript**, **Docker**, **Java** and **SQL**.
 
   - ⚙️ I like to do small projects of everything in general, I think it is the best way to learn something new.
 
