@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/migueltorresmart%C3%ADnez/">
+  <a href="https://www.linkedin.com/in/migueltorresmart%C3%ADnez/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:veinte2007mtm23@gmail.com">
+  <a href="mailto:veinte2007mtm23@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,linux,windows" alt="My Tools" />
   </a>
 </div>
