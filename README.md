@@ -1,86 +1,58 @@
-<div>
-🔴🟡🟢
-
-<br>
-
-</div>  
-
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/0d0002d6-a9a5-46c1-8b2d-b0489b40162c" />
-
-
-
-
-<div>
-
-  ## 🧭 &nbsp;About Me
-
-  - 📚 Currently studying the Higher Level Vocational Training in Web Page Development at Celia Viñas
-
-  - 🌱  I'm always learning new things like --> **Java**, **JavaScript**, **CSS** and **SQL**.
-
-  - ⚙️ I like to do small projects of everything in general, I think it is the best way to learn something new.
-
-  - 🕹️ I am passionate about the world of Indy video game development
-
-  <br>
-  
-
+<div align="center">
+  <img width="100%" alt="Developer Banner" src="https://github.com/user-attachments/assets/0d0002d6-a9a5-46c1-8b2d-b0489b40162c" />
 </div>
 
+<h1 align="center">Hi there, I'm Miguel! 👋</h1>
+
+<h3 align="center">Front-End Developer & Student 👨‍💻</h3>
+
+<p align="center">
+  <i>"I like to do small projects of everything in general, I think it is the best way to learn something new."</i><br>
+  <code>¯\_(ツ)_/¯</code>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/migueltorresmart%C3%ADnez/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:veinte2007mtm23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 🧭 About Me
+
+- 📚 Currently studying the **Higher Level Vocational Training in Web Page Development** at Celia Viñas.
+- 🌱 I'm always learning new things like **Java**, **JavaScript**, **CSS**, and **SQL**.
+- ⚙️ I love building small projects. It's my absolute favorite way to grasp new technologies!
+- 🕹️ Deeply passionate about the world of **Indie Video Game Development**.
+
+---
+
+### 🛠️ Languages & Tools
 
 <div align="center">
-
-  `Front developer and student`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,css,sass,mysql,docker,git,gitlab,github,vscode,linux,windows" alt="My Skills" />
+  </a>
 </div>
 
+---
 
-<div>
+### 📊 GitHub Activity
 
-  ## 🛠️ &nbsp;Languages and Tools
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="85" height="85" </div>
-
-  
-
-
-
-  ### Database
-  [![MySql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-  ### Tools
-  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
-  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-  [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true" alt="Magmiliator77's GitHub Stats" />
 </div>
 
+<br/>
 
-  ## 📫 &nbsp;Connect with me
-
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Miguel_dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/migueltorresmart%C3%ADnez/)
-  [![Gmail Badge](https://img.shields.io/badge/-veinte2007@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:veinte2007mtm23@gmail.com)
-  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
-<!-- ## 📚 &nbsp;My Projects -->
