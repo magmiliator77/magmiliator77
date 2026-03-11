@@ -44,14 +44,11 @@
 
   ## 🛠️ &nbsp;Languages and Tools
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="85" height="85"    [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)/></div>
 
-  ### Languages
-  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  
+
 
 
   ### Database
