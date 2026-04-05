@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=magmiliator77%27s+Stats&number_format=long&border_radius=10" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=magmiliator77+Stats&number_format=long&border_radius=10" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/stats-organization/github-stats-extended">
