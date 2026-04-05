@@ -57,16 +57,11 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true" alt="Magmiliator77's GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=magmiliator77%27s+Stats&number_format=long&border_radius=10" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=magmiliator77&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320&border_radius=10&size_weight=0.5&count_weight=0.5" />
+  </a>
+</p>
