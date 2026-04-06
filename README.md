@@ -11,13 +11,12 @@
   <code>¯\_(ツ)_/¯</code>
 </p>
 
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/migueltorresmart%C3%ADnez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veinte2007mtm23@gmail.com)
 
-</p>
-
+</div>
 ---
 
 ### 🧭 About Me
