@@ -32,7 +32,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="85" height="85" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="85" height="85" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="85" height="85" />
