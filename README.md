@@ -31,7 +31,8 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="85" height="85" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="85" height="85" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="85" height="85" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="85" height="85" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="85" height="85" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="85" height="85" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="85" height="85" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Social%20Media%20Animated%20Icons/github-animated.gif" alt="GitHub" width="85" height="85" />
 </div>
 
 ---
