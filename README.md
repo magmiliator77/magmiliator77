@@ -31,8 +31,7 @@
 ### 🛠️ Languages & Tools
 
 <br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="85" height="85" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="85" height="85" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="85" height="85" />
@@ -41,7 +40,6 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="85" height="85" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="85" height="85" />
 </div>
-
 <br>
 
 <div align="center">
