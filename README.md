@@ -29,16 +29,38 @@
 ---
 
 ### 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="85" height="85" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="85" height="85" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="85" height="85" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="85" height="85" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="85" height="85" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="85" height="85" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="85" height="85" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
