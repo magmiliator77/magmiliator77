@@ -29,7 +29,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<table align="center">
+<table align="center" style="border: 2px solid black;">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
