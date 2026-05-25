@@ -1,4 +1,6 @@
 <div align="center">
+  ![Uploading image.png…]()
+
   <img width="2750" height="1536" alt="Gemini_Generated_Image_d9edkbd9edkbd9ed" src="https://github.com/user-attachments/assets/9e4d602b-cefc-4673-a4e9-1d3f50e05f86" />
 </div>
 
