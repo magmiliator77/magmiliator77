@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Miguel! 👋</h1>
 
-<h3 align="center">Front-End Developer & Student 👨‍💻</h3>
+<h3 align="center">Front-End & Back-End Developer · DAW Student 👨‍💻</h3>
 
 <p align="center">
   <i>"I like to do small projects of everything in general, I think it is the best way to learn something new."</i><br>
