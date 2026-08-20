@@ -47,6 +47,9 @@
     }
   </style>
 
+  <!-- Fondo, para igualar los cubos de techstack -->
+  <rect x="-3.4" y="-3.4" width="30.8" height="30.8" rx="4.62" fill="#1C2128"/>
+
   <defs>
     <filter id="halo" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="1.5"/>
