@@ -82,3 +82,7 @@
   &nbsp;&nbsp;&nbsp;
   <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=magmiliator77&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320&border_radius=10&size_weight=0.5&count_weight=0.5" />
 </p>
+
+<p align="center">
+  <img src="./output/radical/most-commit-language-all-time.svg" alt="Most used language all time" />
+</p>
