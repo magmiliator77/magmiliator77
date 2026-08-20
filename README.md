@@ -36,10 +36,10 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
-      <img src="springboot-power.svg?v=3" alt="Spring Boot" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/springboot-power.svg?v=3" alt="Spring Boot" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
-      <img src="fxgl-tile.svg?v=2" alt="FXGL" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/fxgl-tile.svg?v=2" alt="FXGL" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center" valign="top">Java</td>
-    <td align="center" valign="top">Spring Boot</td>
+    <td align="center" valign="top">Spring&nbsp;Boot</td>
     <td align="center" valign="top">FXGL</td>
     <td align="center" valign="top">JavaScript</td>
     <td align="center" valign="top">Python</td>
