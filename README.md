@@ -17,6 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veinte2007mtm23@gmail.com)
 
 </div>
+
 ---
 
 ### 🧭 About Me
@@ -29,36 +30,46 @@
 ---
 
 ### 🛠️ Languages & Tools
-<table align="center" style="border: 2px solid black;">
+<table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
+      <img src="springboot-power.svg?v=2" alt="Spring Boot" width="65" height="65" />
+    </td>
+    <td align="center" valign="middle" width="96" height="80">
+      <img src="fxgl-tile.svg?v=1" alt="FXGL" width="65" height="65" />
+    </td>
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-      <br>Sass
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
     </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">Java</td>
+    <td align="center" valign="top">Spring Boot</td>
+    <td align="center" valign="top">FXGL</td>
+    <td align="center" valign="top">JavaScript</td>
+    <td align="center" valign="top">Python</td>
+    <td align="center" valign="top">MySQL</td>
+    <td align="center" valign="top">Sass</td>
+    <td align="center" valign="top">Docker</td>
+    <td align="center" valign="top">GitHub</td>
   </tr>
 </table>
 
