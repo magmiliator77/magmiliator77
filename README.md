@@ -36,10 +36,10 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
-      <img src="springboot-power.svg?v=2" alt="Spring Boot" width="65" height="65" />
+      <img src="springboot-power.svg?v=3" alt="Spring Boot" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
-      <img src="fxgl-tile.svg?v=1" alt="FXGL" width="65" height="65" />
+      <img src="fxgl-tile.svg?v=2" alt="FXGL" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
