@@ -71,18 +71,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=magmiliator77%20Stats&number_format=long&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="./output/radical/most-commit-language-all-time.svg" alt="Most used language all time" />
-</p>
-
----
-
 ### Proyectos ✍️
 
 <img src="./assets/banners/iron-defenders.jpg" alt="Banner de IRON DEFENDERS, tower defense militar en pixel art" width="100%" />
@@ -94,3 +82,13 @@ Proyecto final de 1º de DAW. Tower defense de temática militar desarrollado en
 **Seleccionado por [Almas Baimagambetov](https://github.com/AlmasB), creador de [FXGL](https://github.com/AlmasB/FXGL), para la lista oficial de proyectos de la comunidad del framework. Disponible gratuitamente en itch.io.**
 
 ---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=magmiliator77%20Stats&number_format=long&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="./output/radical/most-commit-language-all-time.svg" alt="Most used language all time" />
+</p>
