@@ -80,3 +80,17 @@
 <p align="center">
   <img src="./output/radical/most-commit-language-all-time.svg" alt="Most used language all time" />
 </p>
+
+---
+
+### Proyectos ✍️
+
+<img src="./assets/banners/iron-defenders.jpg" alt="Banner de IRON DEFENDERS, tower defense militar en pixel art" width="100%" />
+
+- #### [IRON DEFENDERS](https://magma777.itch.io/iron-defenders)
+
+Proyecto final de 1º de DAW. Tower defense de temática militar desarrollado en Java sobre la librería FXGL, con mapas diseñados en Tiled, sistema de oleadas de dificultad progresiva y torretas de comportamiento especializado. Incluye backend propio en Spring Boot con autenticación mediante Google OAuth y JWT, tablas de clasificación online y persistencia del progreso en la nube.
+
+**Seleccionado por [Almas Baimagambetov](https://github.com/AlmasB), creador de [FXGL](https://github.com/AlmasB/FXGL), para la lista oficial de proyectos de la comunidad del framework. Disponible gratuitamente en itch.io.**
+
+---
