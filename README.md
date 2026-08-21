@@ -71,7 +71,7 @@
 
 ---
 
-### Proyectos ✍️
+### ✍️ Proyectos
 
 <img src="./assets/banners/iron-defenders.jpg" alt="Banner de IRON DEFENDERS, tower defense militar en pixel art" width="100%" />
 
