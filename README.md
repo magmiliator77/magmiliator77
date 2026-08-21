@@ -1,10 +1,6 @@
 <div align="center">
-  <img width="2750" height="1536" alt="Gemini_Generated_Image_d9edkbd9edkbd9ed" src="https://github.com/user-attachments/assets/8ae97b88-cc32-4bd6-b2e1-364560f8120c" />
+  <img width="1376" height="768" alt="Gemini_Generated_Image_gd9n57gd9n57gd9n" src="./Gemini_Generated_Image_gd9n57gd9n57gd9n.jpg" />
 </div>
-
-<h1 align="center">Hi there, I'm Miguel! 👋</h1>
-
-<h3 align="center">Front-End & Back-End Developer · DAW Student 👨‍💻</h3>
 
 <p align="center">
   <i>"I like to do small projects of everything in general, I think it is the best way to learn something new."</i><br>
