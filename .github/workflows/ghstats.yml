@@ -1,0 +1,27 @@
+name: ghstats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: tiennm99/ghstats@v1
+        with:
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.GHSTATS_TOKEN }}
+          themes: radical
+          tz: Europe/Madrid
+          start_of_week: monday
+          include_forks: "false"
+          include_private: "true"
+          include_org_repos: "false"
+          commits_per_repo: "0"
+          commit_changes: "true"
