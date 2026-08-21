@@ -3,29 +3,29 @@
 </div>
 
 <p align="center">
-  <i>"I like to do small projects of everything in general, I think it is the best way to learn something new."</i><br>
+  <i>"Me gusta hacer pequeños proyectos de todo un poco, creo que es la mejor forma de aprender algo nuevo."</i><br>
   <code>¯\_(ツ)_/¯</code>
 </p>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/migueltorresmart%C3%ADnez/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veinte2007mtm23@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=veinte2007mtm23@gmail.com)
 
 </div>
 
 ---
 
-### 🧭 About Me
+### 🧭 Sobre mí
 
-- 📚 Currently studying the **Higher Level Vocational Training in Web Page Development** at Celia Viñas.
-- 🌱 I'm always learning new things like **Java**, **JavaScript**, **CSS**, and **SQL**.
-- ⚙️ I love building small projects. It's my absolute favorite way to grasp new technologies!
-- 🕹️ Deeply passionate about the world of **Indie Video Game Development**.
+- 📚 Actualmente cursando el **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web** en Celia Viñas.
+- 🌱 Siempre estoy aprendiendo cosas nuevas como **Java**, **JavaScript**, **CSS** y **SQL**.
+- ⚙️ Me encanta construir proyectos pequeños. ¡Es mi forma favorita de asimilar tecnologías nuevas!
+- 🕹️ Me apasiona profundamente el mundo del **desarrollo indie de videojuegos**.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Lenguajes y herramientas
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="96" height="80">
@@ -83,12 +83,12 @@ Proyecto final de 1º de DAW. Tower defense de temática militar desarrollado en
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=magmiliator77%20Stats&number_format=long&border_radius=10" />
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=magmiliator77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,reviews&custom_title=Estad%C3%ADsticas%20de%20magmiliator77&number_format=long&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="./output/radical/most-commit-language-all-time.svg" alt="Most used language all time" />
+  <img src="./output/radical/most-commit-language-all-time.svg" alt="Lenguaje más usado de todos los tiempos" />
 </p>
