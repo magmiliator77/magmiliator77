@@ -19,7 +19,7 @@
 ### 🧭 Sobre mí
 
 - 📚 Actualmente cursando el **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web** en Celia Viñas.
-- 🌱 Siempre estoy aprendiendo cosas nuevas como **Java**, **JavaScript**, **CSS** y **SQL**.
+- 🌱 Siempre estoy aprendiendo cosas nuevas como **Java** <img src="./assets/duke-wave.gif" alt="Duke, la mascota de Java, saludando" height="24" />, **JavaScript**, **CSS** y **SQL**.
 - ⚙️ Me encanta construir proyectos pequeños. ¡Es mi forma favorita de asimilar tecnologías nuevas!
 - 🕹️ Me apasiona profundamente el mundo del **desarrollo indie de videojuegos**.
 
