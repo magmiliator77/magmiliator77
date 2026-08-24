@@ -31,6 +31,6 @@
   <text x="222.29" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Fri</text>
   <rect x="246.43" y="112.57" width="36.29" height="42.43" rx="2" fill="#684f9b"><title>Sat — 54 commits</title></rect>
   <text x="264.57" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Sat</text>
-  <rect x="288.71" y="81.14" width="36.29" height="73.86" rx="2" fill="#684f9b"><title>Sun — 94 commits</title></rect>
+  <rect x="288.71" y="78.79" width="36.29" height="76.21" rx="2" fill="#684f9b"><title>Sun — 97 commits</title></rect>
   <text x="306.86" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Sun</text>
 </svg>
