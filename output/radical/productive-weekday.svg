@@ -19,7 +19,7 @@
   <line x1="31" y1="45" x2="35" y2="45" stroke="#f8d847"/>
   <text x="29" y="48" font-size="10" fill="#f8d847" text-anchor="end">140</text>
   <line x1="35" y1="155" x2="325" y2="155" stroke="#f8d847"/>
-  <rect x="35.00" y="63.07" width="36.29" height="91.93" rx="2" fill="#684f9b"><title>Mon — 117 commits</title></rect>
+  <rect x="35.00" y="62.29" width="36.29" height="92.71" rx="2" fill="#684f9b"><title>Mon — 118 commits</title></rect>
   <text x="53.14" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Mon</text>
   <rect x="77.29" y="77.21" width="36.29" height="77.79" rx="2" fill="#684f9b"><title>Tue — 99 commits</title></rect>
   <text x="95.43" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Tue</text>
@@ -31,6 +31,6 @@
   <text x="222.29" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Fri</text>
   <rect x="246.43" y="112.57" width="36.29" height="42.43" rx="2" fill="#684f9b"><title>Sat — 54 commits</title></rect>
   <text x="264.57" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Sat</text>
-  <rect x="288.71" y="78.79" width="36.29" height="76.21" rx="2" fill="#684f9b"><title>Sun — 97 commits</title></rect>
+  <rect x="288.71" y="80.36" width="36.29" height="74.64" rx="2" fill="#684f9b"><title>Sun — 95 commits</title></rect>
   <text x="306.86" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Sun</text>
 </svg>
