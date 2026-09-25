@@ -38,8 +38,20 @@
       <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/fxgl-tile.svg?v=2" alt="FXGL" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
+      <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/gdscript-gear.svg?v=1" alt="GDScript" width="65" height="65" />
+    </td>
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
     </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">Java</td>
+    <td align="center" valign="top">Spring&nbsp;Boot</td>
+    <td align="center" valign="top">FXGL</td>
+    <td align="center" valign="top">GDScript</td>
+    <td align="center" valign="top">JavaScript</td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width="96" height="80">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
     </td>
@@ -57,10 +69,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">Java</td>
-    <td align="center" valign="top">Spring&nbsp;Boot</td>
-    <td align="center" valign="top">FXGL</td>
-    <td align="center" valign="top">JavaScript</td>
     <td align="center" valign="top">Python</td>
     <td align="center" valign="top">MySQL</td>
     <td align="center" valign="top">Sass</td>
