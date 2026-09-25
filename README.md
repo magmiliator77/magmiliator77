@@ -38,6 +38,9 @@
       <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/fxgl-tile.svg?v=2" alt="FXGL" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
+      <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/godot-blink.svg?v=1" alt="Godot" width="65" height="65" />
+    </td>
+    <td align="center" valign="middle" width="96" height="80">
       <img src="https://raw.githubusercontent.com/magmiliator77/magmiliator77/main/gdscript-gear.svg?v=1" alt="GDScript" width="65" height="65" />
     </td>
     <td align="center" valign="middle" width="96" height="80">
@@ -48,6 +51,7 @@
     <td align="center" valign="top">Java</td>
     <td align="center" valign="top">Spring&nbsp;Boot</td>
     <td align="center" valign="top">FXGL</td>
+    <td align="center" valign="top">Godot</td>
     <td align="center" valign="top">GDScript</td>
     <td align="center" valign="top">JavaScript</td>
   </tr>
