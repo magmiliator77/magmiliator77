@@ -108,7 +108,7 @@
   <rect x="156" y="72" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-01-08 — 4</title></rect>
   <rect x="156" y="81" width="8" height="8" rx="1.5" fill="#614a90"><title>2026-01-09 — 5</title></rect>
   <rect x="156" y="90" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-01-10 — 3</title></rect>
-  <rect x="156" y="99" width="8" height="8" rx="1.5" fill="#ae81ff"><title>2026-01-11 — 16</title></rect>
+  <rect x="156" y="99" width="8" height="8" rx="1.5" fill="#8765c7"><title>2026-01-11 — 16</title></rect>
   <rect x="165" y="45" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-01-12 — 2</title></rect>
   <rect x="165" y="54" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-01-13 — 2</title></rect>
   <rect x="165" y="63" width="8" height="8" rx="1.5" fill="#141321"><title>2026-01-14 — 0</title></rect>
@@ -167,7 +167,7 @@
   <rect x="228" y="99" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-03-08 — 1</title></rect>
   <rect x="237" y="45" width="8" height="8" rx="1.5" fill="#614a90"><title>2026-03-09 — 9</title></rect>
   <rect x="237" y="54" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-03-10 — 2</title></rect>
-  <rect x="237" y="63" width="8" height="8" rx="1.5" fill="#ae81ff"><title>2026-03-11 — 15</title></rect>
+  <rect x="237" y="63" width="8" height="8" rx="1.5" fill="#8765c7"><title>2026-03-11 — 15</title></rect>
   <rect x="237" y="72" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-03-12 — 4</title></rect>
   <rect x="237" y="81" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-03-13 — 1</title></rect>
   <rect x="237" y="90" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-03-14 — 2</title></rect>
@@ -202,6 +202,7 @@
   <text x="147" y="116" font-size="10" fill="#f8d847">Jul</text>
   <text x="183" y="116" font-size="10" fill="#f8d847">Aug</text>
   <text x="228" y="116" font-size="10" fill="#f8d847">Sep</text>
+  <text x="264" y="116" font-size="10" fill="#f8d847">Oct</text>
   <rect x="30" y="120" width="8" height="8" rx="1.5" fill="#8765c7"><title>2026-04-06 — 11</title></rect>
   <rect x="30" y="129" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-04-07 — 4</title></rect>
   <rect x="30" y="138" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-04-08 — 2</title></rect>
@@ -384,4 +385,5 @@
   <rect x="255" y="156" width="8" height="8" rx="1.5" fill="#614a90"><title>2026-10-02 — 7</title></rect>
   <rect x="255" y="165" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-10-03 — 1</title></rect>
   <rect x="255" y="174" width="8" height="8" rx="1.5" fill="#3a2e58"><title>2026-10-04 — 1</title></rect>
+  <rect x="264" y="120" width="8" height="8" rx="1.5" fill="#ae81ff"><title>2026-10-05 — 23</title></rect>
 </svg>

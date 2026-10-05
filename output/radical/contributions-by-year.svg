@@ -4,29 +4,31 @@
   <line x1="35" y1="45" x2="35" y2="155" stroke="#f8d847"/>
   <line x1="31" y1="155" x2="35" y2="155" stroke="#f8d847"/>
   <text x="29" y="158" font-size="10" fill="#f8d847" text-anchor="end">0</text>
-  <line x1="31" y1="137" x2="35" y2="137" stroke="#f8d847"/>
-  <text x="29" y="140" font-size="10" fill="#f8d847" text-anchor="end">100</text>
-  <line x1="31" y1="119" x2="35" y2="119" stroke="#f8d847"/>
-  <text x="29" y="122" font-size="10" fill="#f8d847" text-anchor="end">200</text>
-  <line x1="31" y1="100" x2="35" y2="100" stroke="#f8d847"/>
-  <text x="29" y="103" font-size="10" fill="#f8d847" text-anchor="end">300</text>
-  <line x1="31" y1="82" x2="35" y2="82" stroke="#f8d847"/>
-  <text x="29" y="85" font-size="10" fill="#f8d847" text-anchor="end">400</text>
-  <line x1="31" y1="64" x2="35" y2="64" stroke="#f8d847"/>
-  <text x="29" y="67" font-size="10" fill="#f8d847" text-anchor="end">500</text>
+  <line x1="31" y1="140" x2="35" y2="140" stroke="#f8d847"/>
+  <text x="29" y="143" font-size="10" fill="#f8d847" text-anchor="end">100</text>
+  <line x1="31" y1="124" x2="35" y2="124" stroke="#f8d847"/>
+  <text x="29" y="127" font-size="10" fill="#f8d847" text-anchor="end">200</text>
+  <line x1="31" y1="108" x2="35" y2="108" stroke="#f8d847"/>
+  <text x="29" y="111" font-size="10" fill="#f8d847" text-anchor="end">300</text>
+  <line x1="31" y1="93" x2="35" y2="93" stroke="#f8d847"/>
+  <text x="29" y="96" font-size="10" fill="#f8d847" text-anchor="end">400</text>
+  <line x1="31" y1="77" x2="35" y2="77" stroke="#f8d847"/>
+  <text x="29" y="80" font-size="10" fill="#f8d847" text-anchor="end">500</text>
+  <line x1="31" y1="61" x2="35" y2="61" stroke="#f8d847"/>
+  <text x="29" y="64" font-size="10" fill="#f8d847" text-anchor="end">600</text>
   <line x1="31" y1="45" x2="35" y2="45" stroke="#f8d847"/>
-  <text x="29" y="48" font-size="10" fill="#f8d847" text-anchor="end">600</text>
+  <text x="29" y="48" font-size="10" fill="#f8d847" text-anchor="end">700</text>
   <line x1="35" y1="155" x2="325" y2="155" stroke="#f8d847"/>
-  <rect x="35.00" y="154.45" width="46.67" height="0.55" rx="2" fill="#684f9b"><title>2021 — 3 commits</title></rect>
+  <rect x="35.00" y="154.53" width="46.67" height="0.47" rx="2" fill="#684f9b"><title>2021 — 3 commits</title></rect>
   <text x="58.33" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2021</text>
-  <rect x="83.67" y="148.77" width="46.67" height="6.23" rx="2" fill="#684f9b"><title>2022 — 34 commits</title></rect>
+  <rect x="83.67" y="149.66" width="46.67" height="5.34" rx="2" fill="#684f9b"><title>2022 — 34 commits</title></rect>
   <text x="107.00" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2022</text>
   <rect x="132.33" y="155.00" width="46.67" height="0.00" rx="2" fill="#684f9b"><title>2023 — 0 commits</title></rect>
   <text x="155.67" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2023</text>
-  <rect x="181.00" y="121.27" width="46.67" height="33.73" rx="2" fill="#684f9b"><title>2024 — 184 commits</title></rect>
+  <rect x="181.00" y="126.09" width="46.67" height="28.91" rx="2" fill="#684f9b"><title>2024 — 184 commits</title></rect>
   <text x="204.33" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2024</text>
-  <rect x="229.67" y="77.82" width="46.67" height="77.18" rx="2" fill="#684f9b"><title>2025 — 421 commits</title></rect>
+  <rect x="229.67" y="88.84" width="46.67" height="66.16" rx="2" fill="#684f9b"><title>2025 — 421 commits</title></rect>
   <text x="253.00" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2025</text>
-  <rect x="278.33" y="48.12" width="46.67" height="106.88" rx="2" fill="#ae81ff"><title>2026 — 583 commits</title></rect>
+  <rect x="278.33" y="59.77" width="46.67" height="95.23" rx="2" fill="#ae81ff"><title>2026 — 606 commits</title></rect>
   <text x="301.67" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2026</text>
 </svg>
