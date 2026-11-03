@@ -15,9 +15,9 @@
   <line x1="31" y1="45" x2="35" y2="45" stroke="#f8d847"/>
   <text x="29" y="48" font-size="10" fill="#f8d847" text-anchor="end">250</text>
   <line x1="35" y1="155" x2="325" y2="155" stroke="#f8d847"/>
-  <rect x="35.00" y="45.44" width="36.29" height="109.56" rx="2" fill="#ae81ff"><title>Mon — 249 commits</title></rect>
+  <rect x="35.00" y="45.00" width="36.29" height="110.00" rx="2" fill="#ae81ff"><title>Mon — 250 commits</title></rect>
   <text x="53.14" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Mon</text>
-  <rect x="77.29" y="90.32" width="36.29" height="64.68" rx="2" fill="#684f9b"><title>Tue — 147 commits</title></rect>
+  <rect x="77.29" y="89.00" width="36.29" height="66.00" rx="2" fill="#684f9b"><title>Tue — 150 commits</title></rect>
   <text x="95.43" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Tue</text>
   <rect x="119.57" y="79.32" width="36.29" height="75.68" rx="2" fill="#684f9b"><title>Wed — 172 commits</title></rect>
   <text x="137.71" y="169" font-size="10" fill="#f8d847" text-anchor="middle">Wed</text>
